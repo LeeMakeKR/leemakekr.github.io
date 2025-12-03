@@ -1,0 +1,11 @@
+# MkDocs build artifacts
+site/
+
+# Python virtual environments
+.venv/
+venv/
+ENV/
+
+# OS files
+.DS_Store
+Thumbs.db

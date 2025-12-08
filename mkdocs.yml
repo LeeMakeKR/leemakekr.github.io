@@ -8,17 +8,8 @@ docs_dir: docs
 nav:
   - Home: index.md
   - Projects:
-      - Meshtastic Hangul: projects/meshtastic-hangul/index.md
-      - Universal I2C Keyboard: projects/universal-i2c-keyboard/index.md
-      - Everyday Calendar: projects/everyday-calendar/index.md
-      - Poetry Camera: projects/poetry-camera/index.md
-      - Robotics: projects/robotics/index.md
-  - Articles:
-      - Electronics: articles/electronics/index.md
-      - 3D Printing: articles/3d-printing/index.md
-      - CAD: articles/cad/index.md
-      - Firmware: articles/firmware/index.md
-  - About: about/index.md
+      - Overview: projects/index.md
+  - About: about.md
 
 theme:
   name: material
@@ -46,26 +37,13 @@ plugins:
   - i18n:
       default_language: en
       languages:
-        en:
-          name: English
-          build: true
-        ko:
-          name: 한국어
-          build: true
+        en: English
+        ko: 한국어
       nav_translations:
         ko:
           Home: 홈
           Projects: 프로젝트
-          Meshtastic Hangul: 메스타스틱 한글화
-          Universal I2C Keyboard: 범용 I2C 키보드
-          Everyday Calendar: 에브리데이 캘린더
-          Poetry Camera: 포에트리 카메라
-          Robotics: 로보틱스
-          Articles: 아티클
-          Electronics: 전자 공학
-          3D Printing: 3D 프린팅
-          CAD: CAD
-          Firmware: 펌웨어
+          Overview: 개요
           About: 소개
 
 markdown_extensions:

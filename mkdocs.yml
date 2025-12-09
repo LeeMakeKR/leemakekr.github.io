@@ -35,16 +35,17 @@ theme:
 plugins:
   - search
   - i18n:
-      default_language: en
       languages:
-        en: English
-        ko: 한국어
-      nav_translations:
-        ko:
-          Home: 홈
-          Projects: 프로젝트
-          Overview: 개요
-          About: 소개
+        - locale: en
+          name: English
+          default: true
+        - locale: ko
+          name: 한국어
+          nav_translations:
+            Home: 홈
+            Projects: 프로젝트
+            Overview: 개요
+            About: 소개
 
 markdown_extensions:
   - admonition

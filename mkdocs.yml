@@ -1,5 +1,5 @@
 site_name: LeeMakelog
-site_url: https://pashiran.github.io/
+site_url: https://pashiran.github.io/LeeMakeLog.github.io/
 repo_url: https://github.com/pashiran/LeeMakelog.github.io
 repo_name: LeeMakelog.github.io
 site_dir: site
@@ -65,10 +65,10 @@ markdown_extensions:
 extra:
   alternate:
     - name: English
-      link: /
+      link: /LeeMakeLog.github.io/
       lang: en
     - name: 한국어
-      link: /ko/
+      link: /LeeMakeLog.github.io/ko/
       lang: ko
   social:
     - icon: fontawesome/brands/github

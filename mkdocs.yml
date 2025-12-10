@@ -1,7 +1,7 @@
-site_name: LeeMakelog
-site_url: https://pashiran.github.io/LeeMakeLog.github.io/
-repo_url: https://github.com/pashiran/LeeMakelog.github.io
-repo_name: LeeMakelog.github.io
+site_name: LeeMakeLog
+site_url: https://leemakekr.github.io/
+repo_url: https://github.com/LeeMakeKR/LeeMakeLog
+repo_name: LeeMakeKR/LeeMakeLog
 site_dir: site
 docs_dir: docs
 
@@ -65,15 +65,15 @@ markdown_extensions:
 extra:
   alternate:
     - name: English
-      link: /LeeMakeLog.github.io/
+      link: /
       lang: en
     - name: 한국어
-      link: /LeeMakeLog.github.io/ko/
+      link: /ko/
       lang: ko
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/pashiran
-      name: pashiran on GitHub
+      link: https://github.com/LeeMakeKR
+      name: LeeMakeKR on GitHub
 
 watch:
   - docs

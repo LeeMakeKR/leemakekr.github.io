@@ -21,4 +21,4 @@ The site will be available at `http://127.0.0.1:8000/` with a language switcher 
 
 ## Deployment
 
-Every push to `main` triggers the GitHub Actions workflow in `.github/workflows/gh-pages.yml`, building the site and publishing it to GitHub Pages. Ensure the repository's **Pages** setting is configured to "GitHub Actions" so that deployments land at `https://leemakekr.github.io/`.
+Every push to `main` triggers the GitHub Actions workflow in `.github/workflows/gh-pages.yml`, building the site and publishing it to GitHub Pages at `https://leemakekr.github.io/`.

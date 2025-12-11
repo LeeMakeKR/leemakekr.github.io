@@ -1,6 +1,6 @@
-# Lee Make Log
+# My Project Log
 
-Welcome to **Lee Make Log** — a project log for electronics, 3D printing, CAD, and maker experiments.
+Welcome to **My Project Log** — a project log for electronics, 3D printing, CAD, and maker experiments.
 
 ---
 

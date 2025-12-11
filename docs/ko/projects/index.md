@@ -1,13 +1,24 @@
 # 프로젝트 개요
 
-Lee Make Log에 올라오는 주요 프로젝트를 한눈에 모았습니다. 각 항목을 선택하면 회로도, 펌웨어, 자재 목록, 시행착오 기록을 자세히 볼 수 있습니다.
+전자, 로보틱스, 메이커 프로젝트 모음입니다. 각 프로젝트를 클릭하면 회로도, 코드, 문서가 있는 GitHub 저장소로 이동합니다.
 
-## 현재 주요 프로젝트
+## 전체 프로젝트
 
-- [메스타스틱 한글화](meshtastic-hangul/index.md)
-- [범용 I2C 키보드](universal-i2c-keyboard/index.md)
-- [에브리데이 캘린더](everyday-calendar/index.md)
-- [포에트리 카메라](poetry-camera/index.md)
-- [로보틱스](robotics/index.md)
+- [UBTECH CAN 서보](https://github.com/LeeMakeKR/UBTECH_CAN_Servo)
+- [눈차쿠 제어 메카넘 옴니 휠 로봇](https://github.com/LeeMakeKR/Nunchaku-controlled-Mecanum-Omni-Wheel-Robot)
+- [MAX6921 VFD 드라이버 보드](https://github.com/LeeMakeKR/MAX6921_VFD_Driver_Board)
+- [범용 I2C 키보드](https://github.com/LeeMakeKR/universal-i2c-keyboard)
+- [자가 균형 장치](https://github.com/LeeMakeKR/Self_Balancing_Device)
+- [기상 관측 장치](https://github.com/LeeMakeKR/Weather_Station)
+- [전자종이 한글 표시](https://github.com/LeeMakeKR/EPD_Hangul)
+- [클래식 계산기](https://github.com/LeeMakeKR/Classic_Calculator)
+- [에브리데이 캘린더](https://github.com/LeeMakeKR/Every_Day_Calendar)
+- [공기질 모니터](https://github.com/LeeMakeKR/Air_Quality_Monitor)
+- [3D 프린팅 챔버 온도 및 공기 정화 시스템](https://github.com/LeeMakeKR/3d-printing-chamber-temperature-and-air-filtration-system)
+- [뮤직 박스 펀처](https://github.com/LeeMakeKR/Music_Box_Puncher)
+- [스마트 디스펜서](https://github.com/LeeMakeKR/Smart_Dispenser) (보관됨)
+- [배터리 잔량 알림](https://github.com/LeeMakeKR/Battery_Level_Alert)
+- [원투터치 키보드 해킹](https://github.com/LeeMakeKR/One2Touch_Keyboard_hack)
+- [다이렉트 드라이브 모터 문서화](https://github.com/LeeMakeKR/Direct_Drive_Technology_Motor_Documentation)
 
-새로운 로그와 업데이트가 올라오면 이 페이지에서 바로 확인할 수 있습니다.
+새로운 프로젝트와 업데이트가 올라오면 이 페이지에서 바로 확인할 수 있습니다.

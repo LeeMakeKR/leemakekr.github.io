@@ -35,12 +35,16 @@ theme:
 plugins:
   - search
   - i18n:
+      docs_structure: folder
       languages:
         - locale: en
           name: English
           default: true
+          build: true
         - locale: ko
           name: 한국어
+          build: true
+          site_name: LeeMakeLog
           nav_translations:
             Home: 홈
             Projects: 프로젝트

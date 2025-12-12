@@ -1,75 +1,75 @@
 # LeeMakeLog
 
-Portfolio and project list for [https://leemakekr.github.io/](https://leemakekr.github.io/)
+[https://leemakekr.github.io/](https://leemakekr.github.io/)를 위한 포트폴리오 및 프로젝트 리스트
 
-This repository hosts a bilingual (English/Korean) MkDocs site showcasing electronics, robotics, and maker projects. The site serves as both a project portfolio and a technical documentation hub.
+이 저장소는 전자, 로보틱스, 메이커 프로젝트를 소개하는 이중 언어(영어/한국어) MkDocs 사이트를 호스팅합니다. 프로젝트 포트폴리오이자 기술 문서 허브 역할을 합니다.
 
-## Page Structure
+## 페이지 구조
 
-### Home (`index.md`)
-**Purpose:** Landing page introducing LeeMakeLog  
-**Content to include:**
-- Brief introduction to the site and maker focus
-- Main project areas (electronics, 3D printing, CAD, IoT)
-- Overview of what visitors can find on the site
+### 홈 (`index.md`)
+**목적:** LeeMakeLog를 소개하는 랜딩 페이지  
+**포함할 내용:**
+- 사이트 및 메이커 활동에 대한 간단한 소개
+- 주요 프로젝트 분야 (전자, 3D 프린팅, CAD, IoT)
+- 방문자가 사이트에서 찾을 수 있는 내용 개요
 
-### Projects (`projects/index.md`)
-**Purpose:** Central hub for all project links  
-**Content to include:**
-- Organized project list in three sections:
-  - **In Progress:** Active development projects
-  - **Completed:** Finished projects with full documentation
-  - **Archived:** Projects no longer maintained
-- Each project links directly to its GitHub repository
-- Brief description of what each category represents
+### 프로젝트 (`projects/index.md`)
+**목적:** 모든 프로젝트 링크의 중앙 허브  
+**포함할 내용:**
+- 세 개 섹션으로 구성된 프로젝트 리스트:
+  - **진행 중:** 활발히 개발 중인 프로젝트
+  - **완료됨:** 전체 문서화가 완료된 프로젝트
+  - **아카이브됨:** 더 이상 유지보수하지 않는 프로젝트
+- 각 프로젝트는 GitHub 저장소로 직접 링크
+- 각 카테고리가 의미하는 바에 대한 간단한 설명
 
-### About (`about.md`)
-**Purpose:** Information about the maker and site mission  
-**Content to include:**
-- Focus areas and interests
-- Documentation philosophy
-- Contact information and collaboration guidelines
+### 소개 (`about.md`)
+**목적:** 메이커와 사이트 미션에 대한 정보  
+**포함할 내용:**
+- 관심 분야 및 전문 영역
+- 문서화 철학
+- 연락처 정보 및 협업 가이드라인
 
-## Content Structure
+## 콘텐츠 구조
 
 ```
 docs/
-├── index.md              # English home page
-├── about.md              # English about page
+├── index.md              # 영어 홈 페이지
+├── about.md              # 영어 소개 페이지
 ├── projects/
-│   └── index.md          # English projects list
-├── assets/               # Shared images and diagrams
+│   └── index.md          # 영어 프로젝트 리스트
+├── assets/               # 공유 이미지 및 다이어그램
 │   ├── img/
 │   └── diagrams/
-└── ko/                   # Korean translations (mirrors English structure)
+└── ko/                   # 한국어 번역 (영어 구조 미러링)
     ├── index.md
     ├── about.md
     └── projects/
         └── index.md
 ```
 
-**Language structure:**
-- `docs/` contains all English content
-- `docs/ko/` contains Korean translations with identical structure
-- Both versions must maintain the same page hierarchy
-- Images and assets are shared across languages
+**언어 구조:**
+- `docs/`는 모든 영어 콘텐츠를 포함
+- `docs/ko/`는 동일한 구조의 한국어 번역을 포함
+- 두 버전 모두 동일한 페이지 계층 구조를 유지해야 함
+- 이미지와 에셋은 언어 간 공유
 
-## Local Development
+## 로컬 개발
 
-1. Create a virtual environment (optional but recommended)
-2. Install dependencies: `pip install -r requirements.txt`
-3. Serve locally: `mkdocs serve`
+1. 가상 환경 생성 (선택 사항이지만 권장)
+2. 의존성 설치: `pip install -r requirements.txt`
+3. 로컬 서버 실행: `mkdocs serve`
 
-Or use PowerShell: `scripts/serve.ps1 -Install` (installs dependencies and starts server)
+또는 PowerShell 사용: `scripts/serve.ps1 -Install` (의존성 설치 및 서버 시작)
 
-The site will be available at `http://127.0.0.1:8000/` with a language switcher.
+사이트는 `http://127.0.0.1:8000/`에서 언어 전환 기능과 함께 사용할 수 있습니다.
 
-## Deployment
+## 배포
 
-Every push to `main` triggers the GitHub Actions workflow (`.github/workflows/gh-pages.yml`), which builds and publishes the site to `https://leemakekr.github.io/`.
+`main` 브랜치로의 모든 푸시는 GitHub Actions 워크플로(`.github/workflows/gh-pages.yml`)를 트리거하여 사이트를 빌드하고 `https://leemakekr.github.io/`에 게시합니다.
 
-**Deployment checklist:**
-- Ensure both English and Korean versions are updated
-- Verify project links are working
-- Check that navigation structure matches in both languages
-- Test language switcher functionality locally before pushing
+**배포 체크리스트:**
+- 영어 및 한국어 버전이 모두 업데이트되었는지 확인
+- 프로젝트 링크가 작동하는지 확인
+- 두 언어의 네비게이션 구조가 일치하는지 확인
+- 푸시 전에 언어 전환 기능을 로컬에서 테스트

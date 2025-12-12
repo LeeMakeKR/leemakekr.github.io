@@ -4,12 +4,12 @@
 
 ## 진행 중
 
-- [UBTECH CAN 서보](https://github.com/LeeMakeKR/UBTECH_CAN_Servo)
-- [눈차쿠 제어 메카넘 옴니 휠 로봇](https://github.com/LeeMakeKR/Nunchaku-controlled-Mecanum-Omni-Wheel-Robot)
+- [UBTECH CAN 서보프로토콜 분석과 제어](https://github.com/LeeMakeKR/UBTECH_CAN_Servo)
+- [Nunchaku 제어 Mecanum/Omni Wheel 로봇](https://github.com/LeeMakeKR/Nunchaku-controlled-Mecanum-Omni-Wheel-Robot)
 - [MAX6921 VFD 드라이버 보드](https://github.com/LeeMakeKR/MAX6921_VFD_Driver_Board)
 - [범용 I2C 키보드](https://github.com/LeeMakeKR/universal-i2c-keyboard)
-- [자가 균형 장치](https://github.com/LeeMakeKR/Self_Balancing_Device)
-- [기상 관측 장치](https://github.com/LeeMakeKR/Weather_Station)
+- [Reaction Wheel 균형 장치](https://github.com/LeeMakeKR/Self_Balancing_Device)
+- [기상 정보 디스플레이 장치](https://github.com/LeeMakeKR/Weather_Station)
 - [전자종이 한글 표시](https://github.com/LeeMakeKR/EPD_Hangul)
 - [클래식 계산기](https://github.com/LeeMakeKR/Classic_Calculator)
 - [에브리데이 캘린더](https://github.com/LeeMakeKR/Every_Day_Calendar)
@@ -17,8 +17,8 @@
 - [3D 프린팅 챔버 온도 및 공기 정화 시스템](https://github.com/LeeMakeKR/3d-printing-chamber-temperature-and-air-filtration-system)
 - [뮤직 박스 펀처](https://github.com/LeeMakeKR/Music_Box_Puncher)
 - [배터리 잔량 알림](https://github.com/LeeMakeKR/Battery_Level_Alert)
-- [원투터치 키보드 해킹](https://github.com/LeeMakeKR/One2Touch_Keyboard_hack)
-- [다이렉트 드라이브 모터 문서화](https://github.com/LeeMakeKR/Direct_Drive_Technology_Motor_Documentation)
+- [One2Touch 키보드 해킹](https://github.com/LeeMakeKR/One2Touch_Keyboard_hack)
+- [DDT 모터 문서자료](https://github.com/LeeMakeKR/Direct_Drive_Technology_Motor_Documentation)
 
 ## 완료됨
 

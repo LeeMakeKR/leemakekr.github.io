@@ -5,10 +5,10 @@ A collection of electronics, robotics, and maker projects. Click each project to
 ## In Progress
 
 - [UBTECH CAN Servo](https://github.com/LeeMakeKR/UBTECH_CAN_Servo)
-- [Nunchaku-controlled Mecanum Omni Wheel Robot](https://github.com/LeeMakeKR/Nunchaku-controlled-Mecanum-Omni-Wheel-Robot)
+- [Nunchaku-controlled Mecanum / Omni Wheel Robot](https://github.com/LeeMakeKR/Nunchaku-controlled-Mecanum-Omni-Wheel-Robot)
 - [MAX6921 VFD Driver Board](https://github.com/LeeMakeKR/MAX6921_VFD_Driver_Board)
 - [Universal I2C Keyboard](https://github.com/LeeMakeKR/universal-i2c-keyboard)
-- [Self Balancing Device](https://github.com/LeeMakeKR/Self_Balancing_Device)
+- [Reaction Wheel Balance Device](https://github.com/LeeMakeKR/Self_Balancing_Device)
 - [Weather Station](https://github.com/LeeMakeKR/Weather_Station)
 - [EPD Hangul](https://github.com/LeeMakeKR/EPD_Hangul)
 - [Classic Calculator](https://github.com/LeeMakeKR/Classic_Calculator)
@@ -22,7 +22,7 @@ A collection of electronics, robotics, and maker projects. Click each project to
 
 ## Completed
 
-No completed projects yet.
+
 
 ## Archived
 

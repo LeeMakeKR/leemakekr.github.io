@@ -2,7 +2,7 @@
 
 전자, 로보틱스, 메이커 프로젝트 모음입니다. 각 프로젝트를 클릭하면 회로도, 코드, 문서가 있는 GitHub 저장소로 이동합니다.
 
-## 전체 프로젝트
+## 진행 중
 
 - [UBTECH CAN 서보](https://github.com/LeeMakeKR/UBTECH_CAN_Servo)
 - [눈차쿠 제어 메카넘 옴니 휠 로봇](https://github.com/LeeMakeKR/Nunchaku-controlled-Mecanum-Omni-Wheel-Robot)
@@ -16,9 +16,16 @@
 - [공기질 모니터](https://github.com/LeeMakeKR/Air_Quality_Monitor)
 - [3D 프린팅 챔버 온도 및 공기 정화 시스템](https://github.com/LeeMakeKR/3d-printing-chamber-temperature-and-air-filtration-system)
 - [뮤직 박스 펀처](https://github.com/LeeMakeKR/Music_Box_Puncher)
-- [스마트 디스펜서](https://github.com/LeeMakeKR/Smart_Dispenser) (보관됨)
 - [배터리 잔량 알림](https://github.com/LeeMakeKR/Battery_Level_Alert)
 - [원투터치 키보드 해킹](https://github.com/LeeMakeKR/One2Touch_Keyboard_hack)
 - [다이렉트 드라이브 모터 문서화](https://github.com/LeeMakeKR/Direct_Drive_Technology_Motor_Documentation)
+
+## 완료됨
+
+아직 완료된 프로젝트가 없습니다.
+
+## 아카이브됨
+
+- [스마트 디스펜서](https://github.com/LeeMakeKR/Smart_Dispenser)
 
 새로운 프로젝트와 업데이트가 올라오면 이 페이지에서 바로 확인할 수 있습니다.

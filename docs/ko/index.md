@@ -1,3 +1,8 @@
+---
+hide:
+  - toc
+---
+
 # Lee Make Log
 
 **Lee Make Log**는 전자회로, 3D 프린팅, CAD, 메이커 실험들을 기록하는 프로젝트 로그입니다.

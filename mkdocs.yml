@@ -18,7 +18,6 @@ theme:
     - navigation.sections
     - navigation.path
     - content.code.copy
-    - content.action.edit
     - announce.dismiss
   palette:
     - scheme: default

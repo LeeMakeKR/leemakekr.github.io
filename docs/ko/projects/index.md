@@ -6,7 +6,7 @@
 
 - [UBTECH CAN 서보프로토콜 분석과 제어](https://github.com/LeeMakeKR/UBTECH_CAN_Servo)
 - [Nunchaku 제어 Mecanum/Omni Wheel 로봇](https://github.com/LeeMakeKR/Nunchaku-controlled-Mecanum-Omni-Wheel-Robot)
-- [MAX6921 VFD 드라이버 보드](https://github.com/LeeMakeKR/MAX6921_VFD_Driver_Board)
+- [범용 VFD 드라이버 보드](https://github.com/LeeMakeKR/Universal_VFD_Driver_Board)
 - [범용 I2C 키보드](https://github.com/LeeMakeKR/universal-i2c-keyboard)
 - [Reaction Wheel 균형 장치](https://github.com/LeeMakeKR/Self_Balancing_Device)
 - [기상 정보 디스플레이 장치](https://github.com/LeeMakeKR/Weather_Station)

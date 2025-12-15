@@ -6,7 +6,7 @@ A collection of electronics, robotics, and maker projects. Click each project to
 
 - [UBTECH CAN Servo](https://github.com/LeeMakeKR/UBTECH_CAN_Servo)
 - [Nunchaku-controlled Mecanum / Omni Wheel Robot](https://github.com/LeeMakeKR/Nunchaku-controlled-Mecanum-Omni-Wheel-Robot)
-- [MAX6921 VFD Driver Board](https://github.com/LeeMakeKR/MAX6921_VFD_Driver_Board)
+- [Universal VFD Driver Board](https://github.com/LeeMakeKR/Universal_VFD_Driver_Board)
 - [Universal I2C Keyboard](https://github.com/LeeMakeKR/universal-i2c-keyboard)
 - [Reaction Wheel Balance Device](https://github.com/LeeMakeKR/Self_Balancing_Device)
 - [Weather Station](https://github.com/LeeMakeKR/Weather_Station)

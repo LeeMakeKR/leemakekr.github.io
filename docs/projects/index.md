@@ -4,21 +4,21 @@
 
 ## 진행 중
 
-- [UBTECH CAN 서보프로토콜 분석과 제어](https://github.com/LeeMakeKR/UBTECH_CAN_Servo)
-- [Nunchaku 제어 Mecanum/Omni Wheel 로봇](https://github.com/LeeMakeKR/Nunchaku-controlled-Mecanum-Omni-Wheel-Robot)
-- [범용 VFD 드라이버 보드](https://github.com/LeeMakeKR/Universal_VFD_Driver_Board)
-- [범용 I2C 키보드](https://github.com/LeeMakeKR/universal-i2c-keyboard)
-- [Reaction Wheel 균형 장치](https://github.com/LeeMakeKR/Self_Balancing_Device)
-- [기상 정보 디스플레이 장치](https://github.com/LeeMakeKR/Weather_Station)
-- [전자종이 한글 표시](https://github.com/LeeMakeKR/EPD_Hangul)
-- [클래식 계산기](https://github.com/LeeMakeKR/Classic_Calculator)
-- [에브리데이 캘린더](https://github.com/LeeMakeKR/Every_Day_Calendar)
-- [공기질 모니터](https://github.com/LeeMakeKR/Air_Quality_Monitor)
-- [3D 프린팅 챔버 온도 및 공기 정화 시스템](https://github.com/LeeMakeKR/3d-printing-chamber-temperature-and-air-filtration-system)
-- [뮤직 박스 펀처](https://github.com/LeeMakeKR/Music_Box_Puncher)
-- [배터리 잔량 알림](https://github.com/LeeMakeKR/Battery_Level_Alert)
-- [One2Touch 키보드 해킹](https://github.com/LeeMakeKR/One2Touch_Keyboard_hack)
-- [DDT 모터 문서자료](https://github.com/LeeMakeKR/Direct_Drive_Technology_Motor_Documentation)
+- [Reaction Wheel 균형 장치](https://github.com/LeeMakeKR/Self_Balancing_Device) (last updated: 26/01/02)
+- [Nunchaku 제어 Mecanum/Omni Wheel 로봇](https://github.com/LeeMakeKR/Nunchaku-controlled-Mecanum-Omni-Wheel-Robot) (last updated: 26/01/01)
+- [UBTECH CAN 서보프로토콜 분석과 제어](https://github.com/LeeMakeKR/UBTECH_CAN_Servo) (last updated: 25/12/28)
+- [범용 VFD 드라이버 보드](https://github.com/LeeMakeKR/Universal_VFD_Driver_Board) (last updated: 25/12/15)
+- [범용 I2C 키보드](https://github.com/LeeMakeKR/universal-i2c-keyboard) (last updated: 25/11/25)
+- [DDT 모터 문서자료](https://github.com/LeeMakeKR/Direct_Drive_Technology_Motor_Documentation) (last updated: 25/11/24)
+- [배터리 잔량 알림](https://github.com/LeeMakeKR/Battery_Level_Alert) (last updated: 25/11/24)
+- [기상 정보 디스플레이 장치](https://github.com/LeeMakeKR/Weather_Station) (last updated: 25/11/21)
+- [전자종이 한글 표시](https://github.com/LeeMakeKR/EPD_Hangul) (last updated: 25/11/13)
+- [클래식 계산기](https://github.com/LeeMakeKR/Classic_Calculator) (last updated: 25/11/12)
+- [One2Touch 키보드 해킹](https://github.com/LeeMakeKR/One2Touch_Keyboard_hack) (last updated: 25/11/09)
+- [에브리데이 캘린더](https://github.com/LeeMakeKR/Every_Day_Calendar) (last updated: 25/10/29)
+- [공기질 모니터](https://github.com/LeeMakeKR/Air_Quality_Monitor) (last updated: 25/10/29)
+- [3D 프린팅 챔버 온도 및 공기 정화 시스템](https://github.com/LeeMakeKR/3d-printing-chamber-temperature-and-air-filtration-system) (last updated: 25/10/27)
+- [뮤직 박스 펀처](https://github.com/LeeMakeKR/Music_Box_Puncher) (last updated: 25/08/07)
 
 ## 완료됨
 

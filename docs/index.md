@@ -3,29 +3,29 @@ hide:
   - toc
 ---
 
-# My Project Log
+# Lee Make Log
 
-Welcome to **My Project Log** — a project log for electronics, 3D printing, CAD, and maker experiments.
-
----
-
-## What is this site?
-
-This site is a personal project log where I:
-
-- Document hardware / electronics builds
-- Archive 3D printing and CAD experiments
-- Keep notes about firmware,and prototypes
-- Collect links, references, and troubleshooting tips
-
-You can think of it as a **living notebook** for my maker projects.
+**Lee Make Log**는 전자회로, 3D 프린팅, CAD, 메이커 실험들을 기록하는 프로젝트 로그입니다.
 
 ---
 
-## Project Areas
+## 이 사이트는 무엇을 위한 곳인가요?
 
-- **Electronics & Embedded**
-- **3D Printing / CAD**
-- **IoT / Home Automation**
+이곳은 제가:
 
-Use the top Projects menu to explore detailed pages.
+- 하드웨어 / 전자 프로젝트를 정리하고  
+- 3D 프린터와 CAD 실험을 기록하고  
+- 펌웨어, 임베디드 시스템, 프로토타입 관련 메모를 쌓고  
+- 각종 링크, 레퍼런스, 트러블슈팅 기록을 모으는  
+
+**개인 작업 노트** 같은 공간입니다.
+
+---
+
+## 프로젝트 영역
+
+- **전자 / 임베디드**
+- **3D 프린팅 / CAD**
+- **IoT / 홈 오토메이션**
+
+상단 프로젝트 메뉴를 통해 상세 페이지로 이동할 수 있습니다.

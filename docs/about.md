@@ -1,3 +1,3 @@
-# About Me
+# 소개
 
-I'm a maker passionate about electronics, robotics, and bringing ideas to life through hardware and software. This site documents my journey through various projects, experiments, and lessons learned along the way.
+전자, 로보틱스, 그리고 하드웨어와 소프트웨어로 아이디어를 현실로 만드는 것을 좋아하는 메이커입니다. 이 사이트는 다양한 프로젝트, 실험, 그리고 그 과정에서 배운 교훈을 기록합니다.

@@ -23,53 +23,65 @@
 - 각 프로젝트는 GitHub 저장소로 직접 링크
 - 각 카테고리가 의미하는 바에 대한 간단한 설명
 
-### 소개 (`about.md`)
+### 소개 (`about/index.md`)
 **목적:** 메이커와 사이트 미션에 대한 정보  
 **포함할 내용:**
 - 관심 분야 및 전문 영역
 - 문서화 철학
 - 연락처 정보 및 협업 가이드라인
 
+### 아티클 (`articles/`)
+**목적:** 기술 분야별 문서 및 가이드  
+**포함할 내용:**
+- **3D 프린팅** (`articles/3d-printing/`)
+- **CAD** (`articles/cad/`)
+- **전자공학** (`articles/electronics/`)
+- **펌웨어** (`articles/firmware/`)
+
 ## 콘텐츠 구조
 
 ```
 docs/
-├── index.md              # 영어 홈 페이지
-├── about.md              # 영어 소개 페이지
+├── index.md              # 한국어 홈 페이지
+├── about.md              # 한국어 소개 페이지 (리다이렉트)
+├── about/
+│   └── index.md          # 한국어 소개 페이지
 ├── projects/
-│   └── index.md          # 영어 프로젝트 리스트
+│   └── index.md          # 한국어 프로젝트 리스트
+├── articles/             # 기술 문서
+│   ├── 3d-printing/
+│   │   └── index.md
+│   ├── cad/
+│   │   └── index.md
+│   ├── electronics/
+│   │   └── index.md
+│   └── firmware/
+│       └── index.md
 ├── assets/               # 공유 이미지 및 다이어그램
 │   ├── img/
 │   └── diagrams/
-└── ko/                   # 한국어 번역 (영어 구조 미러링)
+└── en/                   # 영어 번역 (한국어 구조 미러링)
     ├── index.md
     ├── about.md
+    ├── about/
+    │   └── index.md
     └── projects/
         └── index.md
 ```
 
 **언어 구조:**
-- `docs/`는 모든 영어 콘텐츠를 포함
-- `docs/ko/`는 동일한 구조의 한국어 번역을 포함
+- `docs/`는 모든 한국어 콘텐츠를 포함
+- `docs/en/`는 동일한 구조의 영어 번역을 포함
 - 두 버전 모두 동일한 페이지 계층 구조를 유지해야 함
 - 이미지와 에셋은 언어 간 공유
 
-## 로컬 개발
-
-1. 가상 환경 생성 (선택 사항이지만 권장)
-2. 의존성 설치: `pip install -r requirements.txt`
-3. 로컬 서버 실행: `mkdocs serve`
-
-또는 PowerShell 사용: `scripts/serve.ps1 -Install` (의존성 설치 및 서버 시작)
-
-사이트는 `http://127.0.0.1:8000/`에서 언어 전환 기능과 함께 사용할 수 있습니다.
 
 ## 배포
 
 `main` 브랜치로의 모든 푸시는 GitHub Actions 워크플로(`.github/workflows/gh-pages.yml`)를 트리거하여 사이트를 빌드하고 `https://leemakekr.github.io/`에 게시합니다.
 
 **배포 체크리스트:**
-- 영어 및 한국어 버전이 모두 업데이트되었는지 확인
+- 한국어 및 영어 버전이 모두 업데이트되었는지 확인
 - 프로젝트 링크가 작동하는지 확인
 - 두 언어의 네비게이션 구조가 일치하는지 확인
 - 푸시 전에 언어 전환 기능을 로컬에서 테스트

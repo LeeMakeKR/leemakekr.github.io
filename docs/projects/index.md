@@ -41,6 +41,40 @@
 
 아직 완료된 프로젝트가 없습니다.
 
+## 계획중
+
+- 핸디 pnp - 손에 들어오는 작은 smd picker
+- 필라멘트 연속 출력기
+- pcb용 cnc - 베어링 선정 중, igus를 쓰고 싶었으나 유격이 있는 것으로 확인됨. 
+역시 LM 가이드와 볼스크류가 가장 좋은 선택일듯. 축당 4-5만원, 3축이면 12-15만원 정도 예상됨.
+- 위치추적 마이크 - 
+Hackaday 192-mic 위상 배열 — https://hackaday.com/2023/07/04/3d-audio-imaging-with-a-phased-array-microphone/
+ODAS (Open embeddeD Audition System) — https://github.com/introlab/odas
+ODAS Studio (시각화 도구) — https://github.com/introlab/odas_web
+ReSpeaker 6-Mic Circular Array 가이드 — https://github.com/SeeedDocument/wiki_english/blob/master/docs/ReSpeaker_6-Mic_Circular_Array_kit_for_Raspberry_Pi.md
+ReSpeaker Mic Array (DoA/VAD/KWS) — https://github.com/respeaker/mic_array
+QuadMic 4-Mic + Raspberry Pi 튜토리얼 — https://makersportal.com/blog/audio-processing-with-the-quadmic-4-microphone-array-on-the-raspberry-pi
+Arduino 4-mic 음원 위치 추정 — https://github.com/cristinaa211/Sound_source_localization
+강도 기반 3-mic 방향 추정 (GitHub) — https://github.com/mahdi943/soundlocalization
+Instructables — Real-time Sound Direction Finder — https://www.instructables.com/Real-time-Sound-Direction-Finder/
+Instructables — Microphone Array (그리드 센서) — https://www.instructables.com/Microphone-Array/
+Arduino 포럼 — 2-mic 방향 감지 토론 — https://forum.arduino.cc/t/detecting-direction-of-sound/1180871
+42Bots — Arduino 음원 위치 실험 — https://42bots.com/showcase/experimenting-with-sound-localization-and-arduino/
+Raspberry Pi DIY 음원 위치 시스템 — https://www.electronicsforu.com/electronics-projects/sound-localization-system
+GitHub microphone-array 토픽 모음 — https://github.com/topics/microphone-array
+
+- 먼지센서+인두스탠드+집진기
+
+- ha  통합 모니터링 센서
+
+- 샤오미 온습도 센서 ha 변경 펌웨어 업데이트하기
+
+- 버드하우스 lorawan https://hackaday.io/project/185881-lorawan-birdhouse 참조. 메쉬태스틱 사설채널에 연결해서 모니터링 가능할지도?
+
+- pwm 팬 컨트롤러 attiny  없이 ne555와 온도센서 조합 만으로 팬 컨트롤이 가능하지 않을까??
+
+
+
 ## 아카이브됨
 
 - [스마트 디스펜서](https://github.com/LeeMakeKR/Smart_Dispenser)

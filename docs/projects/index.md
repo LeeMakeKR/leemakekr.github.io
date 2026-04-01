@@ -41,12 +41,12 @@
 
 아직 완료된 프로젝트가 없습니다.
 
-## 계획중
-
+## 계획중(아이디어 단계)
+### 볼 수 
 - 핸디 pnp - 손에 들어오는 작은 smd picker
 - 필라멘트 연속 출력기
 - pcb용 cnc - 베어링 선정 중, igus를 쓰고 싶었으나 유격이 있는 것으로 확인됨. 
-역시 LM 가이드와 볼스크류가 가장 좋은 선택일듯. 축당 4-5만원, 3축이면 12-15만원 정도 예상됨.
+
 - 위치추적 마이크 - 
 Hackaday 192-mic 위상 배열 — https://hackaday.com/2023/07/04/3d-audio-imaging-with-a-phased-array-microphone/
 ODAS (Open embeddeD Audition System) — https://github.com/introlab/odas
@@ -72,6 +72,10 @@ GitHub microphone-array 토픽 모음 — https://github.com/topics/microphone-a
 - 버드하우스 lorawan https://hackaday.io/project/185881-lorawan-birdhouse 참조. 메쉬태스틱 사설채널에 연결해서 모니터링 가능할지도?
 
 - pwm 팬 컨트롤러 attiny  없이 ne555와 온도센서 조합 만으로 팬 컨트롤이 가능하지 않을까??
+
+- Freewrite Traveler 
+
+- led 스트립 게임기 
 
 
 

@@ -75,8 +75,25 @@ GitHub microphone-array 토픽 모음 — https://github.com/topics/microphone-a
 
 - Freewrite Traveler 
 
+- 모니터 앰비라이트 프로젝트 수선
+
+
 - led 스트립 게임기 
 
+-  RAK4630 을 이용하여 meshtastic 제작
+
+https://tosscore.com/product/rak-wisduo-lpwan-kr920-lora-sx1262-x-ble-nrf52840-ipex-%ED%83%80%EC%9E%85-%EB%AA%A8%EB%93%88-rak46/1314/
+
+
+
+https://oshwlab.com/nkhouatra4/pulpy_drone
+
+
+- https://oshwhub.com/no_chicken/powerpico
+\
+https://www.printables.com/model/1378247-openbass-customizable-3d-printed-multiscale-headle
+
+https://oshwhub.com/45coll/zi-ping-heng-di-lai-luo-san-jiao_10-10-ban-ben
 
 
 ## 아카이브됨

@@ -77,6 +77,8 @@ GitHub microphone-array 토픽 모음 — https://github.com/topics/microphone-a
 
 - 모니터 앰비라이트 프로젝트 수선
 
+플라스마 총
+https://www.youtube.com/watch?v=heoiKMhYtB8
 
 - led 스트립 게임기 
 
@@ -89,11 +91,30 @@ https://tosscore.com/product/rak-wisduo-lpwan-kr920-lora-sx1262-x-ble-nrf52840-i
 https://oshwlab.com/nkhouatra4/pulpy_drone
 
 
-- https://oshwhub.com/no_chicken/powerpico
-\
-https://www.printables.com/model/1378247-openbass-customizable-3d-printed-multiscale-headle
 
 https://oshwhub.com/45coll/zi-ping-heng-di-lai-luo-san-jiao_10-10-ban-ben
+
+
+- 메쉬타스틱 rak 펌업
+https://www.youtube.com/watch?v=3nO3fz-c4Hc
+
+- 아날로그 시계 조작
+https://www.youtube.com/watch?v=v142dbmIYq0&t=151s
+
+
+- 샤오미 온도센서 펌업
+https://smarthomescene.com/guides/convert-qingping-cgdk2-from-bluetooth-to-zigbee/?fbclid=IwAR31YD0sUIUVfjGFbTK-kmlyeEYbGhur8iaDpGoer2t4j7d8YZI5rcpN-eM
+
+
+https://smarthomescene.com/guides/convert-xiaomi-lywsd03mmc-from-bluetooth-to-zigbee/
+
+
+-에뮬 게임
+https://cafe.naver.com/raspigamer/9327
+
+https://blog.naver.com/kimgooni/223493608985
+
+- 탁상용 PCB 클램프 jaw를 캐스팅해서 내열성 있게
 
 
 ## 아카이브됨

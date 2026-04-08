@@ -43,8 +43,6 @@
 
 ## 계획중(아이디어 단계)
 
-### 볼 수
-
 - 핸디 PnP - 손에 들어오는 작은 SMD picker
 - 필라멘트 연속 출력기
 - PCB용 CNC - 베어링 선정 중, igus를 쓰고 싶었으나 유격이 있는 것으로 확인됨
@@ -107,6 +105,24 @@
   - https://blog.naver.com/kimgooni/223493608985
 
 - 탁상용 PCB 클램프 Jaw를 캐스팅해서 내열성 있게
+
+-만화 케릭터 그림자등
+
+-불상 그림자등
+
+-마이크 위치추적 시스템
+https://www.electronicsforu.com/electronics-projects/sound-localization-system
+https://www.youtube.com/watch?v=c5ynZ3lMQJc
+https://www.youtube.com/watch?v=QtMTvsi-4Hw&t=597s
+https://hackaday.io/project/192750-sesenta-open-source-tileable-acoustic-camera
+
+- 파라볼릭 마이크
+https://www.wildtronics.com/parabolic.html
+
+
+-레이저 마이크
+https://www.youtube.com/watch?v=EiVi8AjG4OY
+
 
 
 ## 아카이브됨

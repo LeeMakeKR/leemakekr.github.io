@@ -74,6 +74,9 @@
   - 메쉬태스틱 사설채널에 연결해서 모니터링 가능할지도?
 
 - PWM 팬 컨트롤러 - ATiny 없이 NE555와 온도센서 조합만으로 팬 컨트롤이 가능하지 않을까?
+  -https://www.circuit-finder.com/categories/pwm-and-power-control/114/fancontrol#google_vignette
+  -https://www.nutsvolts.com/magazine/article/keeping_those_components_cool
+  
 
 - Freewrite Traveler
 

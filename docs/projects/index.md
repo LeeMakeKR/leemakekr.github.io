@@ -10,8 +10,7 @@
 <br>
 - [Reaction Wheel 균형 장치](https://github.com/LeeMakeKR/Self_Balancing_Device) (last updated: 26/02/03)
 <br>
-- [공기질 모니터](https://github.com/LeeMakeKR/Air_Quality_Monitor) (last updated: 26/02/02)
-- 타오바오에서 새 센서 구입, 모듈 도착하면 추가 예정
+- [공기질 모니터](https://github.com/LeeMakeKR/Air_Quality_Monitor) (last updated: 26/02/02) -타오바오에서 새 센서 구입, 모듈 도착하면 추가 예정
 <br>
 - [범용 VFD 드라이버 보드](https://github.com/LeeMakeKR/Universal_VFD_Driver_Board) (last updated: 26/01/27)
 <br>

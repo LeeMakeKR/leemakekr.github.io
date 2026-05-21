@@ -15,13 +15,15 @@
 - [Reaction Wheel 균형 장치](https://github.com/LeeMakeKR/Self_Balancing_Device) (last updated: 26/04/03)
 <br>
 - [Nunchaku 제어 Mecanum/Omni Wheel 로봇](https://github.com/LeeMakeKR/Nunchaku-controlled-Mecanum-Omni-Wheel-Robot) (last updated: 26/02/04)
- 4륜 메카넘 휠의 XY 이동 완료, Yaw 적용중. 
+- 4륜 메카넘 휠의 XY 이동 완료, Yaw 적용중. 
 <br>
 - [범용 VFD 드라이버 보드](https://github.com/LeeMakeKR/Universal_VFD_Driver_Board) (last updated: 26/01/29)
 <br>
 - [UBTECH CAN 서보프로토콜 분석과 제어](https://github.com/LeeMakeKR/UBTECH_CAN_Servo) (last updated: 25/12/28)
 <br>
 - [범용 I2C 키보드](https://github.com/LeeMakeKR/universal-i2c-keyboard) (last updated: 25/11/25)
+<br>
+- [DDT 모터 문서자료](https://github.com/LeeMakeKR/Direct_Drive_Technology_Motor_Documentation) (last updated: 25/11/24)
 <br>
 - [클래식 계산기](https://github.com/LeeMakeKR/Classic_Calculator) (last updated: 25/11/12)
 <br>
@@ -36,8 +38,6 @@
 - [배터리 잔량 알림](https://github.com/LeeMakeKR/Battery_Level_Alert) (last updated: 25/07/24)
 
 ## 완료됨
-
-- [DDT 모터 문서자료](https://github.com/LeeMakeKR/Direct_Drive_Technology_Motor_Documentation) (last updated: 25/11/24)
 
 아직 완료된 프로젝트가 없습니다.
 

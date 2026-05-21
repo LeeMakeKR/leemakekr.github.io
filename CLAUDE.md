@@ -23,5 +23,10 @@
 에셋
 - 이미지는 docs/assets/img/, 다이어그램은 docs/assets/diagrams/에 둔다.
 
+진행 중 프로젝트 업데이트 (docs/projects/index.md)
+- 각 항목의 GitHub 저장소에서 최신 커밋 날짜를 확인한다
+- `(last updated: YY/MM/DD)` 형식으로 날짜를 최신 날짜로 갱신한다
+- **진행 중** 목록 전체를 `last updated` 날짜 기준 **내림차순(최신순)** 으로 정렬한다
+
 불확실할 때
 - 큰 변경 전에는 짧은 확인 질문을 한다.

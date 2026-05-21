@@ -8,6 +8,7 @@ docs_dir: docs
 nav:
   - 홈: index.md
   - 프로젝트: projects_index.md
+  - 블로그: blog_index.md
   - 소개: about.md
 
 theme:

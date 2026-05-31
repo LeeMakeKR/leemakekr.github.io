@@ -4,7 +4,8 @@ Sharing technical articles, project progress updates, and making tips.
 
 ## Latest Posts
 
-No blog posts yet. Write your first post!
+- **[Upgrading USB Mini Connectors to USB-C](blog/2026-05-30-usb-mini-to-usb-c.md)** - 2026-05-30
+  Upgraded old device USB-mini connectors to USB-C
 
 <!-- 
 When adding posts, follow this format:

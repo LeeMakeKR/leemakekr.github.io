@@ -46,6 +46,7 @@ plugins:
           nav_translations:
             홈: Home
             프로젝트: Projects
+            블로그: Blog
             소개: About Me
 
 markdown_extensions:

@@ -1,130 +1,14 @@
-# LeeMakeLog 프로젝트 지침
+# Project Instructions Entry (Copilot)
 
-프로젝트: leemakekr.github.io의 MkDocs 문서 사이트.
+이 저장소에서는 상세 지시사항의 단일 원본을 [PROJECT_INSTRUCTIONS.md](../PROJECT_INSTRUCTIONS.md)로 사용한다.
 
-## 목표
+## Always-on
 
-- 문서를 정확하고 간결하며 탐색하기 쉽게 유지한다.
-- 기존 정보 구조(섹션과 순서)를 보존한다.
-- 작고 집중된 수정만 수행한다.
-- 기본 편집 기준은 `docs/projects_index.md`의 내용과 구조를 따른다.
+- 작업 시작 시 [PROJECT_INSTRUCTIONS.md](../PROJECT_INSTRUCTIONS.md)를 먼저 읽고 우선 적용한다.
+- [PROJECT_INSTRUCTIONS.md](../PROJECT_INSTRUCTIONS.md)와 충돌하는 임의 규칙을 만들지 않는다.
+- 문서 수정 시 한국어/영어 문서의 구조 일관성을 유지한다.
 
-## 코드 스타일
+## Source of Truth
 
-### 마크다운 포매팅
-- **줄 길이**: 가독성을 위해 한 줄은 100자 이내로 작성
-- **제목**: H1은 `#`, H2는 `##`, H3는 `###` 사용 (파일당 최대 3단계)
-- **목록**: 순서 없는 목록은 `-` 사용, 중첩 항목은 적절히 들여쓰기
-- **내용**: 내용은 최대한 짧은 문장으로 간결하게
-- **코드 블록**: 언어 식별자와 함께 삼중 백틱 사용: ` ```python`, ` ```yaml` 등
-- **강조**: 강조는 `**굵게**`
-- **링크**: 내부 링크는 `[표시 텍스트](path/to/file.md)`, 외부 링크는 `[텍스트](https://url)`
-- 파일명과 코드 블록은 ASCII만 사용하고, 경로에는 비ASCII를 쓰지 않는다.
-- 코드 예시는 최소한으로, 정확하게 작성한다.
+- 상세 규칙: [PROJECT_INSTRUCTIONS.md](../PROJECT_INSTRUCTIONS.md)
 
-## 아키텍처
-
-### 프로젝트 구조
-```
-docs/
-├── index.md              # 홈페이지 (한국어)
-├── projects_index.md     # 프로젝트 허브 (전체 목록)
-├── blog_index.md         # 블로그 허브 (최신순 포스트 목록)
-├── blog/                 # 블로그 포스트 저장 폴더
-│   └── YYYY-MM-DD-*.md   # 블로그 포스트
-├── about.md              # 소개 페이지
-├── articles/             # 카테고리별 기술 아티클
-│   ├── 3d-printing/
-│   ├── cad/
-│   ├── electronics/
-│   └── firmware/
-├── assets/
-│   ├── diagrams/         # SVG, PNG 다이어그램 파일
-│   └── img/              # 이미지 및 스크린샷
-└── en/                   # 영어 버전 (한국어 구조와 동일)
-    ├── index.md
-    ├── en_projects_index.md
-    ├── en_blog_index.md
-    ├── blog/
-    ├── about.md
-    └── [한국어 docs와 동일한 구조]
-```
-
-### 네비게이션 구조 (mkdocs.yml)
-- **주요 내비게이션**: 홈, 프로젝트, 블로그, 소개 (4개 최상위 항목)
-- **언어 지원**: 한국어(기본) + i18n 플러그인을 통한 영어
-- **폴더 기반 구조**: i18n 설정에서 `docs_structure: folder` 사용
-
-## 빌드 및 테스트
-
-### 로컬 개발
-- **개발 서버 시작**: `scripts/serve.ps1` (PowerShell) 또는 `mkdocs serve` 실행
-- **사이트 빌드**: `mkdocs build` → `site/` 디렉토리에 출력
-- **의존성 설치**: `pip install -r requirements.txt`
-
-### 배포
-- **호스팅**: GitHub Pages (`leemakekr.github.io` 저장소)
-- **브랜치**: `main` → GitHub Actions를 통해 자동 배포
-- **사이트 URL**: https://leemakekr.github.io/
-
-## 규칙
-
-### 문서 표준
-- **파일 네이밍**: 소문자와 언더바 사용
-- **인덱스 파일**: 각 폴더에는 반드시 `index.md` 랜딩 페이지 필요
-- **Front matter**: 불필요 (내비게이션에 폴더 구조 사용)
-- **언어**: `docs/en/` 하위가 아닌 경우 명확한 한국어로 작성
-- **콘텐츠**: 기술적 의미를 바꾸지 말고, 마케팅성 표현을 피한다
-- **제목**: 가능한 한 유지하고, 필요할 때만 새 제목을 추가한다
-
-### 프로젝트 문서화
-- **프로젝트 페이지** (`projects_index.md`): 3가지 상태로 중앙 허브 유지:
-  - **진행 중**: 활발히 개발 중 (GitHub 저장소 링크 포함)
-  - **완료됨**: 전체 문서화 완료된 프로젝트
-  - **아카이브됨**: 더 이상 유지보수하지 않는 프로젝트
-
-### 이중 언어 콘텐츠 (한국어/영어)
-- **한국어 문서**: `docs/`의 기본 콘텐츠
-- **영어 번역**: `docs/en/`에 동일한 구조로 미러링
-- **번역 설정**: `docs_structure: folder`, 한국어는 `default: true`
-- **관리**: 페이지 추가 시 두 언어 버전 모두 업데이트
-
-### 이미지 및 다이어그램
-- **위치**: 이미지는 `docs/assets/img/`, 기술 도면은 `docs/assets/diagrams/`에 저장
-- **경로 형식**: 상대 경로 사용: `![대체텍스트](../assets/img/photo.png)`
-- **네이밍**: 하이픈을 사용한 설명적인 이름 (`circuit-diagram.png`, `image1.png` 금지)
-
-### 테마 참고사항
-- **테마**: Material for MkDocs (admonition은 이미 사용 중인 경우에만 허용)
-- **활성화된 기능**: 탭, 섹션, 경로 이동경로, 코드 복사 버튼
-- **언어**: 한국어로 설정 (`mkdocs.yml`의 `language: ko`)
-- **다크 모드**: 토글 스위치로 지원
-
-## 문서별 편집 지침
-
-### `docs/projects_index.md`
-
-**진행 중 항목 편집 시:**
-
-1. 각 항목의 GitHub 저장소에서 `git log` 또는 커밋 이력을 확인하여 실제 최신 업데이트 날짜를 파악한다
-2. `(last updated: YY/MM/DD)` 형식으로 날짜를 최신 날짜로 갱신한다
-3. **진행 중** 목록 전체를 `last updated` 날짜 기준 **내림차순(최신순)** 으로 정렬한다
-
-### `docs/blog_index.md` 및 `docs/en/en_blog_index.md`
-
-**블로그 포스트 추가 시:**
-
-1. `docs/blog/YYYY-MM-DD-제목.md` 형식으로 파일을 생성한다 (예: `2026-05-21-led-스트립-게임기.md`)
-2. 영어 버전도 동시에 작성: `docs/en/blog/YYYY-MM-DD-title.md`
-3. 블로그 인덱스 페이지의 최신 글 섹션에 링크를 추가한다
-4. 포스트는 **항상 최신순(역순)** 으로 정렬된다 (최신 글이 맨 위)
-5. 각 포스트는 제목, 작성일, 한 문장 요약을 포함한다
-
-## 주의사항
-
-1. **깨진 링크**: 상대 경로를 사용하여 모든 내부 링크 확인 (예: `../assets/`)
-2. **번역 누락**: 페이지 추가 시 `docs/`와 `docs/en/` 폴더 모두 업데이트
-3. **블로그 이중 언어**: 블로그 포스트 추가 시 한글과 영어를 반드시 함께 작성
-4. **파일 네이밍**: 소문자 파일명으로 대소문자 구분 시스템에서의 배포 문제 방지
-5. **플러그인 순서**: i18n 동작을 테스트하지 않고 `mkdocs.yml`의 플러그인 순서 변경 금지
-6. **불확실할 때**: 큰 규모의 추가가 필요하면 짧게 확인 질문을 한다

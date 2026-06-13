@@ -4,6 +4,9 @@ Sharing technical articles, project progress updates, and making tips.
 
 ## Latest Posts
 
+- **[Building an Air Purification and Ventilation System for a 3D Printer](blog/2026-06-13-building-air-purification-ventilation-system-for-3d-printer.md)** - 2026-06-13
+  Progress log for an in-progress air purification and ventilation setup for indoor 3D printing
+
 - **[Upgrading USB Mini Connectors to USB-C](blog/2026-05-30-usb-mini-to-usb-c.md)** - 2026-05-30
   Upgraded old device USB-mini connectors to USB-C
 

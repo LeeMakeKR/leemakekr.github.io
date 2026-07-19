@@ -4,6 +4,9 @@ Sharing technical articles, project progress updates, and making tips.
 
 ## Latest Posts
 
+- **[Various Project Updates](blog/2026-07-19-various-project-updates.md)** - 2026-07-19
+  Progress notes on a music box puncher, FOC driver experiments, a Curta calculator build, and a 1D arcade game
+
 - **[Building an Air Purification and Ventilation System for a 3D Printer](blog/2026-06-13-building-air-purification-ventilation-system-for-3d-printer.md)** - 2026-06-13
   Progress log for an in-progress air purification and ventilation setup for indoor 3D printing
 

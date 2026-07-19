@@ -6,7 +6,7 @@ hide:
 # My Project Log
 
 Welcome to **My Project Log** — a project log for electronics, 3D printing, CAD, and maker experiments.
-
+2026-07-19-각종-프로젝트-진행상황
 ---
 
 ## What is this site?

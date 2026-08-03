@@ -13,7 +13,7 @@ If I open the door that issue is reduced, but shrinkage increases and air filter
 After adding an X2D and using it, I liked how its active ventilation keeps internal temperature in a better range, so I want to add a similar function to this system.
 <br><br><br>
 
-![image](../../blog/2026-06-13-3d-프린터용-공기청정환기시스템-제작중/스크린샷 2026-06-13 101255.png)
+![image](../../blog/2026-06-13-3d-프린터용-공기청정환기시스템-제작중/screenshot-20260613-101255.png)
 
 - A top-mounted fan would be nice, but it makes vertical volume too large, so I placed it on the side.
 - The main fan is mounted in the exhaust direction, and the filter-fan section is set up to become negative pressure.

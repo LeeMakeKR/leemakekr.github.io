@@ -79,7 +79,7 @@ Next I plan to test CAN communication and single-axis control.
 
 ## Curta Calculator Build
 
-![image](../../blog/2026-07-19-각종-프로젝트-진행상황/스크린샷 2026-07-19 152407.png)
+![image](../../blog/2026-07-19-각종-프로젝트-진행상황/screenshot-20260719-152407.png)
 
 Curta is a mechanical calculator from Austria.
 

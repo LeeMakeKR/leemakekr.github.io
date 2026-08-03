@@ -5,8 +5,8 @@ Sharing technical articles, project progress updates, and making tips.
 ## Latest Posts
 
 - **[1D Arcade Finished](blog/2026-08-02-1d-arcade-complete.md)** - 2026-08-02
-  Wrapping up an ESP32-S3 based 1D arcade game, and the split-and-test workflow I used with AI
-
+  Wrapping up an ESP32-S3 based 1D arcade game.
+  
 - **[Various Project Updates](blog/2026-07-19-various-project-updates.md)** - 2026-07-19
   Progress notes on a music box puncher, FOC driver experiments, a Curta calculator build, and a 1D arcade game
 

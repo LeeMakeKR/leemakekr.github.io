@@ -4,6 +4,9 @@ Sharing technical articles, project progress updates, and making tips.
 
 ## Latest Posts
 
+- **[Multi-Cell Charging Adapter](blog/2026-08-22-multi-cell-charging-adapter.md)** - 2026-08-22
+  Building an 8-cell charging dock with a selectable cell count, so several single cells can be charged and discharged at once
+
 - **[1D Arcade Finished](blog/2026-08-02-1d-arcade-complete.md)** - 2026-08-02
   Wrapping up an ESP32-S3 based 1D arcade game.
   

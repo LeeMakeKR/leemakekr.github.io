@@ -6,15 +6,15 @@
 - 최소한의 안전한 수정만 수행하고, 큰 규모의 재작성은 피한다.
 - 명시적 요청 없이는 사이트 구조를 변경하지 않는다.
 - 기존 톤과 용어에 맞추어 수정한다.
-- 기본 편집 기준은 docs/projects_index.md의 내용과 구조를 따른다.
+- 기본 편집 기준은 docs/ko/projects_index.md의 내용과 구조를 따른다.
 - 블로그는 시간순 **역순(최신순)** 으로 포스트를 나열한다.
 
-블로그 (docs/blog_index.md 및 docs/en/en_blog_index.md)
+블로그 (docs/ko/blog_index.md 및 docs/en/blog_index.md)
 - 블로그는 시간순 **역순(최신순)** 으로 포스트를 나열한다
 - 각 포스트는 다음을 포함: 제목, 작성일, 간단한 설명(한 문장)
 - 포스트 파일명: `YYYY-MM-DD-제목.md` (예: `2026-05-21-led-스트립-게임기.md`) 작성 문서제목이나 파일에 띄어쓰기가 있을경우 하이픈으로 대체한다. 
 - **필수**: 블로그 포스트를 추가할 때 한글과 영어를 모두 작성한다
-- 블로그 포스트를 작성하면 blog_index.md와 en_blog_index.md에 링크를 추가한다.  projects_index.md 및 en_projects_index.md 도 같이 편집한다.
+- 블로그 포스트를 작성하면 양쪽 blog_index.md에 링크를 추가한다. 양쪽 projects_index.md 도 같이 편집한다.
 - 기본은 한국어로 작성하되, docs/en/ 아래는 영어로 작성한다.
 
 콘텐츠 제약
@@ -32,16 +32,16 @@
 ## 이중 언어 문서 대칭성
 
 ### 문서 구조 규칙
-- **한글 문서**: `docs/` 아래에 저장
-- **영어 문서**: `docs/en/` 아래에 저장 (파일명 앞에 `en_` 접두사 추가)
-  - 예: `docs/projects_index.md` ↔ `docs/en/en_projects_index.md`
+- **한글 문서**: `docs/ko/` 아래에 저장
+- **영어 문서**: `docs/en/` 아래에 저장 (한글과 **같은 파일명**을 쓴다. 파일명이 다르면 i18n이 짝을 찾지 못해 영어 사이트에 한글 페이지가 복제된다)
+  - 예: `docs/ko/projects_index.md` ↔ `docs/en/projects_index.md`
 
 ### 수정 시 필수 사항
 - **한 가지 언어만 수정하지 말 것**: 한글 문서를 수정하면 반드시 영어 문서도 동시에 수정한다
 - **구조와 내용 일치**: 두 언어의 섹션 구조와 정보 계층은 항상 동일해야 한다
 - **날짜와 링크 동기화**: 프로젝트 업데이트, 링크 등이 양쪽 모두 최신으로 유지되어야 한다
 
-진행 중 프로젝트 업데이트 (docs/projects_index.md 및 docs/en/en_projects_index.md)
+진행 중 프로젝트 업데이트 (docs/ko/projects_index.md 및 docs/en/projects_index.md)
 - 각 항목의 GitHub 저장소에서 최신 커밋 날짜를 확인한다
 - `(last updated: YY/MM/DD)` 형식으로 날짜를 최신 날짜로 갱신한다
 - **진행 중** 목록 전체를 `last updated` 날짜 기준 **내림차순(최신순)** 으로 정렬한다

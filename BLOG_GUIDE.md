@@ -6,7 +6,7 @@
 
 ### 파일 위치
 
-- **한글**: `docs/blog/YYYY-MM-DD-제목.md`
+- **한글**: `docs/ko/blog/YYYY-MM-DD-제목.md`
 - **영어**: `docs/en/blog/YYYY-MM-DD-title.md`
 
 ### 파일명 규칙
@@ -41,14 +41,14 @@
 
 포스트를 작성한 후, 해당 언어의 블로그 인덱스 페이지에 링크를 추가합니다:
 
-**한글 (`docs/blog_index.md`)**:
+**한글 (`docs/ko/blog_index.md`)**:
 
 ```markdown
 - **[포스트 제목](blog/파일명.md)** - YYYY-MM-DD
   한 문장 요약
 ```
 
-**영어 (`docs/en/en_blog_index.md`)**:
+**영어 (`docs/en/blog_index.md`)**:
 
 ```markdown
 - **[Post Title](blog/filename.md)** - YYYY-MM-DD
@@ -58,7 +58,7 @@
 ### 푸시 전 필수 확인
 
 - 블로그 포스트를 추가하거나 수정한 경우, 푸시 전에 반드시 블로그 인덱스와 연관된 제목 및 프로젝트 리스트, 다른 언어의 문서도 함께 수정해야 함. 
-- 한글 포스트는 `docs/blog_index.md`, 영문 포스트는 `docs/en/blog_index.md`를 항상 함께 확인할 것
+- 한글 포스트는 `docs/ko/blog_index.md`, 영문 포스트는 `docs/en/blog_index.md`를 항상 함께 확인할 것
 - 인덱스 누락 상태로는 커밋하거나 푸시하지 않음
 
 ### 주의사항

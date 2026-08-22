@@ -1,9 +1,9 @@
 # 1D Arcade Finished
 
-<img src="../../blog/2026-08-02-1d-arcade-완성/1d-arcade-logo.png" alt="image" width="1024">
+<img src="/blog/2026-08-02-1d-arcade-완성/1d-arcade-logo.png" alt="image" width="1024">
 
 
-<img src="../../blog/2026-08-02-1d-arcade-완성/screenshot-20260802-130202.png" alt="image" width="1024">
+<img src="/blog/2026-08-02-1d-arcade-완성/screenshot-20260802-130202.png" alt="image" width="1024">
 
 I finally finished the project I started at the end of June,  
 after an old LED strip turned up while I was tidying up.  
@@ -12,18 +12,18 @@ I only had to pin down the idea, the hardware spec, and the logic;
 the rest came together on its own.
 <br><br><br>
 
-<img src="../../blog/2026-08-02-1d-arcade-완성/수정됨_20260630_211057.jpg" alt="image" width="1024">
+<img src="/blog/2026-08-02-1d-arcade-완성/수정됨_20260630_211057.jpg" alt="image" width="1024">
 
-<img src="../../blog/2026-08-02-1d-arcade-완성/수정됨_20260723_153435.jpg" alt="image" width="1024">
+<img src="/blog/2026-08-02-1d-arcade-완성/수정됨_20260723_153435.jpg" alt="image" width="1024">
 
-<img src="../../blog/2026-08-02-1d-arcade-완성/수정됨_20260802_011621.jpg" alt="image" width="1024">
+<img src="/blog/2026-08-02-1d-arcade-완성/수정됨_20260802_011621.jpg" alt="image" width="1024">
 
 Designing and building the hardware was not exactly easy,  
 but the bottlenecks that usually slow me down cleared up far too easily.
 <br><br><br>
 
 
-<img src="../../blog/2026-08-02-1d-arcade-완성/수정됨_20260801_151922.jpg" alt="image" width="1024">
+<img src="/blog/2026-08-02-1d-arcade-완성/수정됨_20260801_151922.jpg" alt="image" width="1024">
 
 <br>
 

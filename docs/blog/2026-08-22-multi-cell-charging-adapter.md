@@ -14,7 +14,7 @@ RC용 배터리 충전기는 성능은 좋지만, 단일 셀 여러 개를 충�
 | S2 | 로터리 스위치 |
 
 
-<img src="2026-08-22-multi-cell-charging-adapter/001.jpg" alt="image" width="1024">
+<img src="/blog/2026-08-22-multi-cell-charging-adapter/001.jpg" alt="image" width="1024">
 
 
 동작은 매우 단순하다. 위 회로도는 5셀(5S) 기준이다.
@@ -26,17 +26,17 @@ RC용 배터리 충전기는 성능은 좋지만, 단일 셀 여러 개를 충�
 <br><br><br>
 
 
-<img src="2026-08-22-multi-cell-charging-adapter/20260821_173741.jpg" alt="image" width="1024">
+<img src="/blog/2026-08-22-multi-cell-charging-adapter/20260821_173741.jpg" alt="image" width="1024">
 
-<img src="2026-08-22-multi-cell-charging-adapter/20260821_173801.jpg" alt="image" width="1024">
+<img src="/blog/2026-08-22-multi-cell-charging-adapter/20260821_173801.jpg" alt="image" width="1024">
 
-<img src="2026-08-22-multi-cell-charging-adapter/20260821_212107.jpg" alt="image" width="1024">
+<img src="/blog/2026-08-22-multi-cell-charging-adapter/20260821_212107.jpg" alt="image" width="1024">
 
-<img src="2026-08-22-multi-cell-charging-adapter/20260821_212110.jpg" alt="image" width="1024">
+<img src="/blog/2026-08-22-multi-cell-charging-adapter/20260821_212110.jpg" alt="image" width="1024">
 
-<img src="2026-08-22-multi-cell-charging-adapter/20260821_212145.jpg" alt="image" width="1024">
+<img src="/blog/2026-08-22-multi-cell-charging-adapter/20260821_212145.jpg" alt="image" width="1024">
 
-<img src="2026-08-22-multi-cell-charging-adapter/20260821_212857.jpg" alt="image" width="1024">
+<img src="/blog/2026-08-22-multi-cell-charging-adapter/20260821_212857.jpg" alt="image" width="1024">
 
 
 

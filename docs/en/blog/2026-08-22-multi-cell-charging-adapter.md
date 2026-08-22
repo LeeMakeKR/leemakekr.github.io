@@ -16,7 +16,7 @@ Since it is hard to always use the same number of cells, I built a charging dock
 | S2 | Rotary switch |
 
 
-<img src="../../blog/2026-08-22-multi-cell-charging-adapter/001.jpg" alt="image" width="1024">
+<img src="/blog/2026-08-22-multi-cell-charging-adapter/001.jpg" alt="image" width="1024">
 
 
 The operation is very simple. The schematic above is drawn for 5 cells (5S).
@@ -28,14 +28,14 @@ Wiring gets a bit troublesome when building the 8-cell version, but it comes tog
 <br><br><br>
 
 
-<img src="../../blog/2026-08-22-multi-cell-charging-adapter/20260821_173741.jpg" alt="image" width="1024">
+<img src="/blog/2026-08-22-multi-cell-charging-adapter/20260821_173741.jpg" alt="image" width="1024">
 
-<img src="../../blog/2026-08-22-multi-cell-charging-adapter/20260821_173801.jpg" alt="image" width="1024">
+<img src="/blog/2026-08-22-multi-cell-charging-adapter/20260821_173801.jpg" alt="image" width="1024">
 
-<img src="../../blog/2026-08-22-multi-cell-charging-adapter/20260821_212107.jpg" alt="image" width="1024">
+<img src="/blog/2026-08-22-multi-cell-charging-adapter/20260821_212107.jpg" alt="image" width="1024">
 
-<img src="../../blog/2026-08-22-multi-cell-charging-adapter/20260821_212110.jpg" alt="image" width="1024">
+<img src="/blog/2026-08-22-multi-cell-charging-adapter/20260821_212110.jpg" alt="image" width="1024">
 
-<img src="../../blog/2026-08-22-multi-cell-charging-adapter/20260821_212145.jpg" alt="image" width="1024">
+<img src="/blog/2026-08-22-multi-cell-charging-adapter/20260821_212145.jpg" alt="image" width="1024">
 
-<img src="../../blog/2026-08-22-multi-cell-charging-adapter/20260821_212857.jpg" alt="image" width="1024">
+<img src="/blog/2026-08-22-multi-cell-charging-adapter/20260821_212857.jpg" alt="image" width="1024">

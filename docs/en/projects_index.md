@@ -5,13 +5,19 @@ Click each project to view the GitHub repository with schematics, code, and docu
 
 ## Completed
 
-- [1D Arcade Game](https://github.com/LeeMakeKR/1D_Arcade_Game) (last updated: 26/08/02)
+- [1D Arcade Game](https://github.com/LeeMakeKR/1D_Arcade_Game) (last updated: 26/09/24)
+<br>
+- [Nunchaku-controlled Mecanum / Omni Wheel Robot](https://github.com/LeeMakeKR/Nunchaku-controlled-Mecanum-Omni-Wheel-Robot) (last updated: 26/08/25)
+<br>
+- [Poetry Camera](https://github.com/LeeMakeKR/poetry-camera-rpi) (documentation in progress) (last updated: 26/08/24)
 <br>
 - [Direct Drive Technology Motor Documentation](https://github.com/LeeMakeKR/Direct_Drive_Technology_Motor_Documentation) (last updated: 25/11/24)
 
 ## In Progress
 
-- [Reaction Wheel Balance Device](https://github.com/LeeMakeKR/Self_Balancing_Device) (last updated: 26/08/01)
+- [Reaction Wheel Balance Device](https://github.com/LeeMakeKR/Self_Balancing_Device) (last updated: 26/09/16)
+<br>
+- [Every Day Calendar](https://github.com/LeeMakeKR/Every_Day_Calendar) (last updated: 26/09/01)
 <br>
 - [Hangul Display for Arduino](https://github.com/LeeMakeKR/Hangul_Display_for_Arduino) (last updated: 26/07/21)
 <br>
@@ -26,12 +32,7 @@ Click each project to view the GitHub repository with schematics, code, and docu
 <br>
 - [One2Touch Keyboard Hack](https://github.com/LeeMakeKR/One2Touch_Keyboard_hack) (last updated: 26/06/08)
 <br>
-- [Every Day Calendar](https://github.com/LeeMakeKR/Every_Day_Calendar) (last updated: 26/06/08)
-<br>
 - [Battery Level Alert](https://github.com/LeeMakeKR/Battery_Level_Alert) (last updated: 26/06/08)
-<br>
-- [Nunchaku-controlled Mecanum / Omni Wheel Robot](https://github.com/LeeMakeKR/Nunchaku-controlled-Mecanum-Omni-Wheel-Robot) (last updated: 26/02/04)
- XY motion on the 4-wheel mecanum base is done; yaw control in progress.
 <br>
 - [Universal VFD Driver Board](https://github.com/LeeMakeKR/Universal_VFD_Driver_Board) (last updated: 26/01/29)
 <br>

@@ -5,13 +5,19 @@
 
 ## 완료됨
 
-- [1D Arcade Game](https://github.com/LeeMakeKR/1D_Arcade_Game) (last updated: 26/08/02)
+- [1D Arcade Game](https://github.com/LeeMakeKR/1D_Arcade_Game) (last updated: 26/09/24)
+<br>
+- [Nunchaku 제어 Mecanum/Omni Wheel 로봇](https://github.com/LeeMakeKR/Nunchaku-controlled-Mecanum-Omni-Wheel-Robot) (last updated: 26/08/25)
+<br>
+- [시인 카메라](https://github.com/LeeMakeKR/poetry-camera-rpi) (문서 편집중) (last updated: 26/08/24)
 <br>
 - [DDT 모터 문서자료](https://github.com/LeeMakeKR/Direct_Drive_Technology_Motor_Documentation) (last updated: 25/11/24)
 
 ## 진행 중
 
-- [Reaction Wheel 균형 장치](https://github.com/LeeMakeKR/Self_Balancing_Device) (last updated: 26/08/01)
+- [Reaction Wheel 균형 장치](https://github.com/LeeMakeKR/Self_Balancing_Device) (last updated: 26/09/16)
+<br>
+- [에브리데이 캘린더](https://github.com/LeeMakeKR/Every_Day_Calendar) (last updated: 26/09/01)
 <br>
 - [아두이노용 한글 디스플레이](https://github.com/LeeMakeKR/Hangul_Display_for_Arduino) (last updated: 26/07/21)
 <br>
@@ -26,12 +32,7 @@
 <br>
 - [One2Touch 키보드 해킹](https://github.com/LeeMakeKR/One2Touch_Keyboard_hack) (last updated: 26/06/08)
 <br>
-- [에브리데이 캘린더](https://github.com/LeeMakeKR/Every_Day_Calendar) (last updated: 26/06/08)
-<br>
 - [배터리 잔량 알림](https://github.com/LeeMakeKR/Battery_Level_Alert) (last updated: 26/06/08)
-<br>
-- [Nunchaku 제어 Mecanum/Omni Wheel 로봇](https://github.com/LeeMakeKR/Nunchaku-controlled-Mecanum-Omni-Wheel-Robot) (last updated: 26/02/04)
- 4륜 메카넘 휠의 XY 이동 완료, Yaw 적용중.
 <br>
 - [범용 VFD 드라이버 보드](https://github.com/LeeMakeKR/Universal_VFD_Driver_Board) (last updated: 26/01/29)
 <br>

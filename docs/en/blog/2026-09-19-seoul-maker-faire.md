@@ -2,7 +2,7 @@
 
 This year I took part in Seoul Maker Faire, held at DDP in Dongdaemun.
 
-I brought the Poet Camera, the 1D Arcade, a mecanum wheel car, a 3D printed escapement, and a few other pieces.
+I brought the Poetry Camera, the 1D Arcade, a mecanum wheel car, a 3D printed escapement, and a few other pieces.
 As always, the builds that were hardest to make and packed with the most technology, the ones I most want to show off as the person who built them, drew less attention than simple, eye-catching pieces like the 1D Arcade.
 
 This year I added lines like

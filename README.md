@@ -23,7 +23,15 @@
 - 각 프로젝트는 GitHub 저장소로 직접 링크
 - 각 카테고리가 의미하는 바에 대한 간단한 설명
 
-### 소개 (`about/index.md`)
+### 블로그 (`blog_index.md`)
+**목적:** 제작기와 프로젝트 진행 상황 기록  
+**포함할 내용:**
+- 포스트 목록을 최신순(역순)으로 정렬
+- 각 항목은 제목, 작성일, 한 문장 요약으로 구성
+- 포스트 본문은 `blog/YYYY-MM-DD-title.md`, 이미지는 같은 이름의 폴더에 저장
+- 포스트 작성 규칙은 `BLOG_GUIDE.md` 참조
+
+### 소개 (`about.md`)
 **목적:** 메이커와 사이트 미션에 대한 정보  
 **포함할 내용:**
 - 관심 분야 및 전문 영역
@@ -42,38 +50,36 @@
 
 ```
 docs/
-├── index.md              # 한국어 홈 페이지
-├── about.md              # 한국어 소개 페이지 (리다이렉트)
-├── about/
-│   └── index.md          # 한국어 소개 페이지
-├── projects/
-│   └── index.md          # 한국어 프로젝트 리스트
-├── articles/             # 기술 문서
-│   ├── 3d-printing/
-│   │   └── index.md
-│   ├── cad/
-│   │   └── index.md
-│   ├── electronics/
-│   │   └── index.md
-│   └── firmware/
-│       └── index.md
-├── assets/               # 공유 이미지 및 다이어그램
+├── assets/                   # 공유 이미지 및 다이어그램
 │   ├── img/
 │   └── diagrams/
-└── en/                   # 영어 번역 (한국어 구조 미러링)
+├── ko/                       # 한국어 콘텐츠 (기본 언어, 사이트 루트)
+│   ├── index.md              # 홈
+│   ├── projects_index.md     # 프로젝트 리스트
+│   ├── blog_index.md         # 블로그 인덱스
+│   ├── about.md              # 소개
+│   ├── blog/
+│   │   ├── YYYY-MM-DD-title.md
+│   │   └── YYYY-MM-DD-title/ # 해당 포스트의 이미지
+│   └── articles/             # 기술 문서
+│       ├── 3d-printing/index.md
+│       ├── cad/index.md
+│       ├── electronics/index.md
+│       └── firmware/index.md
+└── en/                       # 영어 번역 (ko와 동일한 파일명 구조)
     ├── index.md
+    ├── projects_index.md
+    ├── blog_index.md
     ├── about.md
-    ├── about/
-    │   └── index.md
-    └── projects/
-        └── index.md
+    ├── blog/
+    └── articles/
 ```
 
 **언어 구조:**
-- `docs/`는 모든 한국어 콘텐츠를 포함
-- `docs/en/`는 동일한 구조의 영어 번역을 포함
-- 두 버전 모두 동일한 페이지 계층 구조를 유지해야 함
-- 이미지와 에셋은 언어 간 공유
+- `docs/ko/`는 모든 한국어 콘텐츠를 포함 (기본 언어, 사이트 루트에 빌드)
+- `docs/en/`는 동일한 구조의 영어 번역을 포함 (`/en/`에 빌드)
+- 두 언어는 **같은 파일명**을 써야 함 (파일명이 다르면 i18n이 짝을 찾지 못해 영어 사이트에 한글 페이지가 복제됨)
+- 이미지는 `docs/ko/blog/<포스트 슬러그>/`에 두고, 양쪽 문서에서 `/blog/<포스트 슬러그>/파일명` 경로로 참조
 
 
 ## 배포

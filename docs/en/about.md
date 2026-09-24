@@ -1,3 +1,15 @@
-# About Me
+# About LeeMakelog
 
-I'm a maker passionate about electronics, robotics, and bringing ideas to life through hardware and software. This site documents my journey through various projects, experiments, and lessons learned along the way.
+I'm a maker passionate about electronics, robotics, and bringing ideas to life through hardware and software.
+
+LeeMakelog is a project log covering electronics, firmware, mechanical design, and fabrication experiments. The goal is to document builds clearly enough that others can adapt the ideas for their own workshops.
+
+## Focus Areas
+
+- Embedded systems and rapid prototyping
+- Machine design, 3D printing, and custom tooling
+- Documentation that captures both successes and lessons learned
+
+## Contact
+
+For questions or collaboration ideas, open an issue on the repository or reach out via the listed social channels.

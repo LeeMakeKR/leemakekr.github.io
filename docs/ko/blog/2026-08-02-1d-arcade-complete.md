@@ -1,7 +1,9 @@
-<img src="/blog/2026-08-02-1d-arcade-완성/1d-arcade-logo.png" alt="image" width="1024">
+# 1D Arcade 완성
+
+<img src="/blog/2026-08-02-1d-arcade-complete/1d-arcade-logo.png" alt="image" width="1024">
 
 
-<img src="/blog/2026-08-02-1d-arcade-완성/screenshot-20260802-130202.png" alt="image" width="1024">
+<img src="/blog/2026-08-02-1d-arcade-complete/screenshot-20260802-130202.png" alt="image" width="1024">
 
 6월 말, 짐정리하다 나온 LED를 보고 시작한 프로젝트를 완성했다.  
 진행이 생각보다 훨씬 빨랐는데, 전부 Claude 덕분이다.  
@@ -9,22 +11,22 @@
 나머지는 뚝딱이었다.
 <br><br><br>
 
-<img src="/blog/2026-08-02-1d-arcade-완성/수정됨_20260630_211057.jpg" alt="image" width="1024">
+<img src="/blog/2026-08-02-1d-arcade-complete/edited-20260630_211057.jpg" alt="image" width="1024">
 
-<img src="/blog/2026-08-02-1d-arcade-완성/수정됨_20260723_153435.jpg" alt="image" width="1024">
+<img src="/blog/2026-08-02-1d-arcade-complete/edited-20260723_153435.jpg" alt="image" width="1024">
 
-<img src="/blog/2026-08-02-1d-arcade-완성/수정됨_20260802_011621.jpg" alt="image" width="1024">
+<img src="/blog/2026-08-02-1d-arcade-complete/edited-20260802_011621.jpg" alt="image" width="1024">
 
 하드웨어 설계와 제작이 쉬웠던 건 아니지만,  
 매번 발목을 잡던 병목이 너무 쉽게 풀려서 좋았다.
 <br><br><br>
 
 
-<img src="/blog/2026-08-02-1d-arcade-완성/수정됨_20260801_151922.jpg" alt="image" width="1024">
+<img src="/blog/2026-08-02-1d-arcade-complete/edited-20260801_151922.jpg" alt="image" width="1024">
 
 <br>
 
-https://www.youtube.com/watch?v=X1-Scp6Crh8
+<https://www.youtube.com/watch?v=X1-Scp6Crh8>
 
 <br>
 

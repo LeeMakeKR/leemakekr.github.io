@@ -1,3 +1,5 @@
+# Building an Air Purification and Ventilation System for a 3D Printer
+
 Even when I run ventilation and an air purifier together, gases and fine particles from indoor printing still keep bothering me.
 
 Recently I have been running 24-hour prints more often, so I felt I needed to solve this problem properly.
@@ -13,7 +15,7 @@ If I open the door that issue is reduced, but shrinkage increases and air filter
 After adding an X2D and using it, I liked how its active ventilation keeps internal temperature in a better range, so I want to add a similar function to this system.
 <br><br><br>
 
-![image](../../blog/2026-06-13-3d-프린터용-공기청정환기시스템-제작중/screenshot-20260613-101255.png)
+<img src="/blog/2026-06-13-building-air-purification-ventilation-system-for-3d-printer/screenshot-20260613-101255.png" alt="image" width="1024">
 
 - A top-mounted fan would be nice, but it makes vertical volume too large, so I placed it on the side.
 - The main fan is mounted in the exhaust direction, and the filter-fan section is set up to become negative pressure.
@@ -23,6 +25,6 @@ After adding an X2D and using it, I liked how its active ventilation keeps inter
 <br>
 <br>
 <br>
-![image](../../blog/2026-06-13-3d-프린터용-공기청정환기시스템-제작중/20260612_170808.jpg)
+<img src="/blog/2026-06-13-building-air-purification-ventilation-system-for-3d-printer/20260612_170808.jpg" alt="image" width="1024">
 
 There are many modern MCUs and displays, but I plan to use older parts as much as possible, mainly to consume existing stock, including an Arduino Uno and a 1602 LCD.

@@ -4,13 +4,13 @@ I have several projects going on at once, so things are a bit chaotic, but these
 
 ## Music Box Puncher
 
-![image](../../blog/2026-07-19-각종-프로젝트-진행상황/20260626_221755.jpg)
+<img src="/blog/2026-07-19-various-project-updates/20260626_221755.jpg" alt="image" width="1024">
 
-![image](../../blog/2026-07-19-각종-프로젝트-진행상황/20260712_191209.jpg)
+<img src="/blog/2026-07-19-various-project-updates/20260712_191209.jpg" alt="image" width="1024">
 
-![image](../../blog/2026-07-19-각종-프로젝트-진행상황/20260712_195225.jpg)
+<img src="/blog/2026-07-19-various-project-updates/20260712_195225.jpg" alt="image" width="1024">
 
-![image](../../blog/2026-07-19-각종-프로젝트-진행상황/20260712_204101.jpg)
+<img src="/blog/2026-07-19-various-project-updates/20260712_204101.jpg" alt="image" width="1024">
 
 This is something I am making again after a very long time.
 I think it originally started around seven years ago.
@@ -22,13 +22,13 @@ but I do want to upgrade it at some point.
 
 ## FOC Driver Experiments
 
-![image](../../blog/2026-07-19-각종-프로젝트-진행상황/20260626_221755.jpg)
+<img src="/blog/2026-07-19-various-project-updates/20260626_221755.jpg" alt="image" width="1024">
 
-![image](../../blog/2026-07-19-각종-프로젝트-진행상황/20260705_152024.jpg)
+<img src="/blog/2026-07-19-various-project-updates/20260705_152024.jpg" alt="image" width="1024">
 
-![image](../../blog/2026-07-19-각종-프로젝트-진행상황/20260717_173749.jpg)
+<img src="/blog/2026-07-19-various-project-updates/20260717_173749.jpg" alt="image" width="1024">
 
-![image](../../blog/2026-07-19-각종-프로젝트-진행상황/20260718_112600.jpg)
+<img src="/blog/2026-07-19-various-project-updates/20260718_112600.jpg" alt="image" width="1024">
 
 I started this project after seeing ETH Zurich's Cubli project and wanting to try something similar.
 
@@ -79,7 +79,7 @@ Next I plan to test CAN communication and single-axis control.
 
 ## Curta Calculator Build
 
-![image](../../blog/2026-07-19-각종-프로젝트-진행상황/screenshot-20260719-152407.png)
+<img src="/blog/2026-07-19-various-project-updates/screenshot-20260719-152407.png" alt="image" width="1024">
 
 Curta is a mechanical calculator from Austria.
 
@@ -96,7 +96,7 @@ and this time I found a model that looks pretty promising.
 
 <https://makerworld.com/models/753910-kotta-calculator-type-i>
 
-![image](../../blog/2026-07-19-각종-프로젝트-진행상황/20260718_114508.jpg)
+<img src="/blog/2026-07-19-various-project-updates/20260718_114508.jpg" alt="image" width="1024">
 
 After printing a few parts,
 it looks like AMS and support filament are almost required.
@@ -106,9 +106,9 @@ I am just printing parts little by little whenever I have time.
 
 ## 1D Arcade Game
 
-![image](../../blog/2026-07-19-각종-프로젝트-진행상황/20260630_211057.jpg)
+<img src="/blog/2026-07-19-various-project-updates/20260630_211057.jpg" alt="image" width="1024">
 
-![image](../../blog/2026-07-19-각종-프로젝트-진행상황/20260717_121506.jpg)
+<img src="/blog/2026-07-19-various-project-updates/20260717_121506.jpg" alt="image" width="1024">
 
 <https://www.youtube.com/shorts/o-0I9kOMT_s>
 

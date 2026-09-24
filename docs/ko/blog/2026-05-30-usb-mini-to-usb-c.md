@@ -8,14 +8,14 @@ pcb 모서리를 타고 납땜해야 하는 물건이라 납땜이 쉽지는 않
 
 다른 물건들도 찾아보면 더 있는데 시간나는대로 하나씩 변경할 예정
 
-![image](2026-05-30-usb-mini-to-usb-c/20260526_113622.jpg)
+<img src="/blog/2026-05-30-usb-mini-to-usb-c/20260526_113622.jpg" alt="image" width="1024">
 
-![image](2026-05-30-usb-mini-to-usb-c/20260526_115246.jpg)
+<img src="/blog/2026-05-30-usb-mini-to-usb-c/20260526_115246.jpg" alt="image" width="1024">
 
-![image](2026-05-30-usb-mini-to-usb-c/20260526_115514.jpg)
+<img src="/blog/2026-05-30-usb-mini-to-usb-c/20260526_115514.jpg" alt="image" width="1024">
 
-![image](2026-05-30-usb-mini-to-usb-c/20260526_123354.jpg)
+<img src="/blog/2026-05-30-usb-mini-to-usb-c/20260526_123354.jpg" alt="image" width="1024">
 
-![image](2026-05-30-usb-mini-to-usb-c/20260526_151838.jpg)
+<img src="/blog/2026-05-30-usb-mini-to-usb-c/20260526_151838.jpg" alt="image" width="1024">
 
-![image](2026-05-30-usb-mini-to-usb-c/20260526_152434.jpg)
+<img src="/blog/2026-05-30-usb-mini-to-usb-c/20260526_152434.jpg" alt="image" width="1024">

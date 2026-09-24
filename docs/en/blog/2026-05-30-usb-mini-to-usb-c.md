@@ -8,14 +8,14 @@ Since the component requires soldering along the PCB edges, it's not easy to sol
 
 There are more devices like this if I search around, and I plan to upgrade them one by one as time permits.
 
-![image](2026-05-30-usb-mini-to-usb-c/20260526_113622.jpg)
+<img src="/blog/2026-05-30-usb-mini-to-usb-c/20260526_113622.jpg" alt="image" width="1024">
 
-![image](2026-05-30-usb-mini-to-usb-c/20260526_115246.jpg)
+<img src="/blog/2026-05-30-usb-mini-to-usb-c/20260526_115246.jpg" alt="image" width="1024">
 
-![image](2026-05-30-usb-mini-to-usb-c/20260526_115514.jpg)
+<img src="/blog/2026-05-30-usb-mini-to-usb-c/20260526_115514.jpg" alt="image" width="1024">
 
-![image](2026-05-30-usb-mini-to-usb-c/20260526_123354.jpg)
+<img src="/blog/2026-05-30-usb-mini-to-usb-c/20260526_123354.jpg" alt="image" width="1024">
 
-![image](2026-05-30-usb-mini-to-usb-c/20260526_151838.jpg)
+<img src="/blog/2026-05-30-usb-mini-to-usb-c/20260526_151838.jpg" alt="image" width="1024">
 
-![image](2026-05-30-usb-mini-to-usb-c/20260526_152434.jpg)
+<img src="/blog/2026-05-30-usb-mini-to-usb-c/20260526_152434.jpg" alt="image" width="1024">

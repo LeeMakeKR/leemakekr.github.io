@@ -4,6 +4,9 @@ Sharing technical articles, project progress updates, and making tips.
 
 ## Latest Posts
 
+- **[Seoul Maker Faire 2026](blog/2026-09-19-seoul-maker-faire.md)** - 2026-09-19
+  Notes from exhibiting at Seoul Maker Faire, held at DDP in Dongdaemun
+
 - **[Multi-Cell Charging Adapter](blog/2026-08-22-multi-cell-charging-adapter.md)** - 2026-08-22
   Built an 8-cell charging dock with a selectable cell count, for charging and discharging several single cells
 

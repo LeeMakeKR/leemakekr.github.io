@@ -1,15 +1,17 @@
+# 각종 프로젝트 진행상황
+
 여러 프로젝트를 동시에 하다보니 좀 정신이 없긴 한데,
 최근에 특히 많이 보고 있는 것들.
 
 ## 뮤직박스 펀처
 
-![image](2026-07-19-각종-프로젝트-진행상황/20260626_221755.jpg)
+<img src="/blog/2026-07-19-various-project-updates/20260626_221755.jpg" alt="image" width="1024">
 
-![image](2026-07-19-각종-프로젝트-진행상황/20260712_191209.jpg)
+<img src="/blog/2026-07-19-various-project-updates/20260712_191209.jpg" alt="image" width="1024">
 
-![image](2026-07-19-각종-프로젝트-진행상황/20260712_195225.jpg)
+<img src="/blog/2026-07-19-various-project-updates/20260712_195225.jpg" alt="image" width="1024">
 
-![image](2026-07-19-각종-프로젝트-진행상황/20260712_204101.jpg)
+<img src="/blog/2026-07-19-various-project-updates/20260712_204101.jpg" alt="image" width="1024">
 
 정말 간만에 다시 만드는 물건.
 시작이 한 7년 전이었던 것 같다.
@@ -22,13 +24,13 @@
 
 ## FOC 드라이버 실험
 
-![image](2026-07-19-각종-프로젝트-진행상황/20260626_221755.jpg)
+<img src="/blog/2026-07-19-various-project-updates/20260626_221755.jpg" alt="image" width="1024">
 
-![image](2026-07-19-각종-프로젝트-진행상황/20260705_152024.jpg)
+<img src="/blog/2026-07-19-various-project-updates/20260705_152024.jpg" alt="image" width="1024">
 
-![image](2026-07-19-각종-프로젝트-진행상황/20260717_173749.jpg)
+<img src="/blog/2026-07-19-various-project-updates/20260717_173749.jpg" alt="image" width="1024">
 
-![image](2026-07-19-각종-프로젝트-진행상황/20260718_112600.jpg)
+<img src="/blog/2026-07-19-various-project-updates/20260718_112600.jpg" alt="image" width="1024">
 
 취리히 대학의 cubli 프로젝트를 보고 따라해보고 싶어서 시작한 프로젝트.
 
@@ -36,7 +38,7 @@
 
 <br>
 
-https://www.youtube.com/watch?v=n_6p-1J551Y 
+<https://www.youtube.com/watch?v=n_6p-1J551Y>
 
 RemRC의 유튜브 버전도 유명하고,
 아두이노 버전으로 구현도 쉽다.
@@ -82,7 +84,7 @@ enable 핀 번호가 달랐음.
 
 ## Curta 계산기 제작
 
-![image](2026-07-19-각종-프로젝트-진행상황/screenshot-20260719-152407.png)
+<img src="/blog/2026-07-19-various-project-updates/screenshot-20260719-152407.png" alt="image" width="1024">
 
 
 오스트리아의 기계식 계산기 Curta.
@@ -98,10 +100,10 @@ enable 핀 번호가 달랐음.
 
 그런데 최근에 다시 보니 꽤 괜찮아 보이는 모델이 올라와 있었다.
 
-https://makerworld.com/models/753910-kotta-calculator-type-i
+<https://makerworld.com/models/753910-kotta-calculator-type-i>
 
 
-![image](2026-07-19-각종-프로젝트-진행상황/20260718_114508.jpg)
+<img src="/blog/2026-07-19-various-project-updates/20260718_114508.jpg" alt="image" width="1024">
 
 부품 몇 개 출력해보니 AMS와 서포트용 필라멘트는 거의 필수일 듯.
 
@@ -112,10 +114,10 @@ https://makerworld.com/models/753910-kotta-calculator-type-i
 
 ## 1D Arcade 게임기
 
-![image](2026-07-19-각종-프로젝트-진행상황/20260630_211057.jpg)
-![image](2026-07-19-각종-프로젝트-진행상황/20260717_121506.jpg)
+<img src="/blog/2026-07-19-various-project-updates/20260630_211057.jpg" alt="image" width="1024">
+<img src="/blog/2026-07-19-various-project-updates/20260717_121506.jpg" alt="image" width="1024">
 
-https://www.youtube.com/shorts/o-0I9kOMT_s
+<https://www.youtube.com/shorts/o-0I9kOMT_s>
 
 이것도 예전에 만들려고 RGB LED 스트립만 사고 방치했던 물건.
 메이커페어 참가신청한 김에 열심히 만들고 있다. 

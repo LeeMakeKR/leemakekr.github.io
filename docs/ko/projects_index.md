@@ -15,7 +15,7 @@
 
 ## 진행 중
 
-- [Reaction Wheel 균형 장치](https://github.com/LeeMakeKR/Self_Balancing_Device) (last updated: 26/09/16)
+- [Reaction Wheel 균형 장치](https://github.com/LeeMakeKR/Self_Balancing_Device) (last updated: 26/10/09)
 <br>
 - [에브리데이 캘린더](https://github.com/LeeMakeKR/Every_Day_Calendar) (last updated: 26/09/01)
 <br>

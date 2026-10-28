@@ -4,6 +4,9 @@ Sharing technical articles, project progress updates, and making tips.
 
 ## Latest Posts
 
+- **[Cubli NEW Design](blog/2026-10-27-cubli-new-design.md)** - 2026-10-27
+  New design work for the Cubli project
+
 - **[Seoul Maker Faire 2026](blog/2026-09-19-seoul-maker-faire.md)** - 2026-09-19
   Notes from exhibiting at Seoul Maker Faire, held at DDP in Dongdaemun
 

@@ -15,7 +15,7 @@ Click each project to view the GitHub repository with schematics, code, and docu
 
 ## In Progress
 
-- [Reaction Wheel Balance Device](https://github.com/LeeMakeKR/Self_Balancing_Device) (last updated: 26/09/16)
+- [Reaction Wheel Balance Device](https://github.com/LeeMakeKR/Self_Balancing_Device) (last updated: 26/10/09)
 <br>
 - [Every Day Calendar](https://github.com/LeeMakeKR/Every_Day_Calendar) (last updated: 26/09/01)
 <br>
